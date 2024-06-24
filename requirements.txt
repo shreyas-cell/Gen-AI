@@ -1,0 +1,7 @@
+gemini
+langchain
+streamlit
+python-dotenv
+PyPDF2
+
+-e .
